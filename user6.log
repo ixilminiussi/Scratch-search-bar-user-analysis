@@ -1,0 +1,203 @@
+​ [react-ga] called ga('send', 'pageview', path);
+​ [react-ga] with path: /
+​ ## CLEARED SEARCH
+​ ## CLEARED SEARCH
+​ [WDS] Live Reloading enabled.
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["operator_add","operator_and","answer","askandwait"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby","control_start_as_clone"]}}
+​ ## CLEARED SEARCH
+​ ## {"id":"data_setvariableto","time":1650232383428}
+​ ## {"id":"data_setvariableto","time":1650232384807}
+​ ## {"id":"yLwGv@y)q^+k4gWKo?p.","time":1650232389081}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["operator_equals"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["operator_equals"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+​ ## CLEARED SEARCH
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["operator_round","control_repeat","sensing_resettimer","repeat_until"],"suggestion":["looks_sayforsecs","looks_thinkforsecs","forever"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["control_repeat","repeat_until"],"suggestion":["motion_setx","motion_sety","motion_setrotationstyle","looks_setsizeto","looks_seteffectto","sound_seteffectto","sound_setvolumeto","event_whenkeypressed","sensing_keypressed","sensing_setdragmode","sensing_resettimer"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["control_repeat","repeat_until"],"suggestion":["sensing_resettimer"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["control_repeat","repeat_until"],"suggestion":["sensing_resettimer"]}}
+​ ## {"id":"repeat_until","time":1650232402038}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["backdropnumbername","event_broadcast","event_broadcastandwait"],"suggestion":["motion_changexby","motion_gotoxy","motion_glidesecstoxy","motion_changeyby","looks_changesizeby","looks_changeeffectby","sound_changeeffectby","sound_changevolumeby"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["looks_sayforsecs","looks_thinkforsecs","motion_goto","motion_gotoxy","looks_gotofrontback","forever","control_create_clone_of","sensing_touchingcolor","sensing_coloristouchingcolor"]}}
+​ ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+​ ## {"id":"operator_lt","time":1650232433619}
+​ ## {"id":"yLwGv@y)q^+k4gWKo?p.","time":1650232436713}
+​ ## {"id":"2?W6H8TZn!v[1MRCJ`U6","time":1650232441054}
+​ Trying to cancel a gesture recursively.
+​ ## CLEARED SEARCH
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_show","^S;1C57QO=H0Z@7jlaUb_size","control_stop","motion_setx","motion_sety","operator_subtract","looks_setsizeto","^S;1C57QO=H0Z@7jlaUb_sound_play","looks_seteffectto","sound_seteffectto","sound_setvolumeto","sensing_setdragmode","looks_sayforsecs","sound_stopallsounds","^S;1C57QO=H0Z@7jlaUb_switchcostumeto","motion_setrotationstyle","looks_switchbackdropto","looks_switchbackdropto","looks_switchbackdroptoandwait"],"suggestion":["control_start_as_clone","motion_gotoxy","motion_glidesecstoxy","motion_changexby","event_whenthisspriteclicked","event_broadcast","event_broadcastandwait","sensing_coloristouchingcolor","sensing_distanceto","askandwait"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["control_stop","^S;1C57QO=H0Z@7jlaUb_sound_play","sound_stopallsounds"],"suggestion":["motion_setx","motion_sety","motion_setrotationstyle","looks_setsizeto","looks_seteffectto","sound_seteffectto","sound_setvolumeto","control_if","control_if_else","sensing_setdragmode","sensing_resettimer"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["^S;1C57QO=H0Z@7jlaUb_sound_play"],"suggestion":["motion_setx","motion_sety","looks_setsizeto","looks_seteffectto","sound_stopallsounds","sound_seteffectto","sound_setvolumeto","control_stop"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["^S;1C57QO=H0Z@7jlaUb_sound_play"],"suggestion":["control_start_as_clone","looks_sayforsecs","looks_say","sound_stopallsounds","event_whenstageclicked","control_stop","of"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["^S;1C57QO=H0Z@7jlaUb_sound_play"],"suggestion":["control_start_as_clone","event_whenstageclicked","of"]}}
+​ ## SEARCH {"tags":["#start"],"results":{"tag":["event_whenflagclicked","event_whenkeypressed","event_whenstageclicked","event_whenthisspriteclicked","event_whenbackdropswitchesto","event_whengreaterthan","event_whenbroadcastreceived","event_broadcastandwait","control_start_as_clone"]}}
+​ ## {"id":"event_whenflagclicked","time":1650232452463}
+​ ## {"id":"data_changevariableby","time":1650232517091}
+​ ## {"id":"data_setvariableto","time":1650232531011}
+​ ## CLEARED SEARCH
+​ ## SEARCH {"tags":[],"results":{"autocomplete":["operator_or","of"],"suggestion":["motion_gotoxy","looks_gotofrontback","motion_goto","motion_glidesecstoxy"]}}
+​ ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["looks_sayforsecs","looks_thinkforsecs","control_start_as_clone","control_create_clone_of"]}}
+​ ## SEARCH {"tags":["#operator"],"results":{"tag":["operator_add","operator_subtract","operator_multiply","operator_divide","operator_random","operator_gt","operator_lt","operator_equals","operator_and","operator_or","operator_not","operator_join","operator_letter_of","operator_length","operator_contains","operator_mod","operator_round","operator_mathop"]}}
+​ ## {"id":"operator_multiply","time":1650232538545}
+​ ## {"id":"2?W6H8TZn!v[1MRCJ`U6","time":1650232541056}
+blockly_compressed_vertical.js:2037 ## {"id":"yLwGv@y)q^+k4gWKo?p.","time":1650232543234}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_show","^S;1C57QO=H0Z@7jlaUb_size","control_stop","motion_setx","motion_sety","operator_subtract","looks_setsizeto","^S;1C57QO=H0Z@7jlaUb_sound_play","looks_seteffectto","sound_seteffectto","sound_setvolumeto","sensing_setdragmode","looks_sayforsecs","sound_stopallsounds","^S;1C57QO=H0Z@7jlaUb_switchcostumeto","motion_setrotationstyle","looks_switchbackdropto","looks_switchbackdropto","looks_switchbackdroptoandwait"],"suggestion":["control_start_as_clone","motion_gotoxy","motion_glidesecstoxy","motion_changexby","event_whenthisspriteclicked","event_broadcast","event_broadcastandwait","sensing_coloristouchingcolor","sensing_distanceto","askandwait"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_sayforsecs"],"suggestion":["control_if","control_if_else"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_sayforsecs"],"suggestion":["event_whenkeypressed","sensing_keypressed"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"looks_sayforsecs","time":1650232549771}
+blockly_compressed_vertical.js:2037 ## {"id":"yLwGv@y)q^+k4gWKo?p.","time":1650232552399}
+blockly_compressed_vertical.js:861 Trying to cancel a gesture recursively.
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_sayforsecs"],"suggestion":["event_whenkeypressed","sensing_keypressed"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_sayforsecs"],"suggestion":["event_whenkeypressed","sensing_keypressed"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_sayforsecs"],"suggestion":["event_whenkeypressed","sensing_keypressed"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","operator_multiply","motion_movesteps","sensing_mousedown","operator_mathop"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","motion_movesteps","sensing_mousedown"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"motion_movesteps","time":1650232617742}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["sensing_keypressed"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["sensing_keypressed"],"suggestion":["event_whenkeypressed"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["sensing_keypressed"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_show","FD]_=%:s%ae#pww:(WO%_size","control_stop","motion_setx","motion_sety","operator_subtract","looks_setsizeto","FD]_=%:s%ae#pww:(WO%_sound_play","looks_seteffectto","sound_seteffectto","sound_setvolumeto","sensing_setdragmode","looks_sayforsecs","sound_stopallsounds","FD]_=%:s%ae#pww:(WO%_switchcostumeto","motion_setrotationstyle","looks_switchbackdropto","looks_switchbackdropto","looks_switchbackdroptoandwait"],"suggestion":["control_start_as_clone","motion_gotoxy","motion_glidesecstoxy","motion_changexby","event_whenthisspriteclicked","event_broadcast","event_broadcastandwait","sensing_coloristouchingcolor","sensing_distanceto","askandwait"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_stop","FD]_=%:s%ae#pww:(WO%_sound_play","sound_stopallsounds"],"suggestion":["motion_setx","motion_sety","motion_setrotationstyle","looks_setsizeto","looks_seteffectto","sound_seteffectto","sound_setvolumeto","control_if","control_if_else","sensing_setdragmode","sensing_resettimer"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_sound_play"],"suggestion":["motion_setx","motion_sety","looks_setsizeto","looks_seteffectto","sound_stopallsounds","sound_seteffectto","sound_setvolumeto","control_stop"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["looks_sayforsecs","looks_say","FD]_=%:s%ae#pww:(WO%_sound_play","control_start_as_clone"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_sound_play"],"suggestion":["motion_setx","motion_sety","looks_setsizeto","looks_seteffectto","sound_stopallsounds","sound_seteffectto","sound_setvolumeto","control_stop"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_sound_play"],"suggestion":["control_start_as_clone","looks_sayforsecs","looks_say","sound_stopallsounds","event_whenstageclicked","control_stop","of"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_sound_play"],"suggestion":["control_start_as_clone","event_whenstageclicked","of"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#start"],"results":{"tag":["event_whenflagclicked","event_whenkeypressed","event_whenstageclicked","event_whenthisspriteclicked","event_whenbackdropswitchesto","event_whengreaterthan","event_whenbroadcastreceived","event_broadcastandwait","control_start_as_clone"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"event_whenkeypressed","time":1650232631545}
+blockly_compressed_vertical.js:2037 ## {"id":"event_whenkeypressed","time":1650232633757}
+blockly_compressed_vertical.js:2037 ## {"id":"event_whenkeypressed","time":1650232635071}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_divide","FD]_=%:s%ae#pww:(WO%_direction","sensing_distanceto","control_delete_this_clone","sensing_dayssince2000"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_direction"],"suggestion":["looks_thinkforsecs","sensing_coloristouchingcolor","looks_sayforsecs","forever","sensing_touchingcolor"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_direction"],"suggestion":["looks_changesizeby","looks_setsizeto","looks_hide","FD]_=%:s%ae#pww:(WO%_size","FD]_=%:s%ae#pww:(WO%_sound_playuntildone"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_direction"],"suggestion":["looks_thinkforsecs","sensing_coloristouchingcolor","looks_sayforsecs","forever","sensing_touchingcolor"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_divide","FD]_=%:s%ae#pww:(WO%_direction","sensing_distanceto","control_delete_this_clone","sensing_dayssince2000"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","operator_multiply","motion_movesteps","sensing_mousedown","operator_mathop"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","motion_movesteps","sensing_mousedown"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["sensing_setdragmode","motion_setx","motion_sety","motion_setrotationstyle","looks_sayforsecs","looks_thinkforsecs","looks_setsizeto","looks_seteffectto","sound_seteffectto","sound_setvolumeto"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["sensing_setdragmode","motion_movesteps","operator_not","operator_mod","operator_mathop"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#motion"],"results":{"tag":["motion_movesteps","motion_turnright","motion_turnleft","motion_goto","motion_gotoxy","motion_glideto","motion_glidesecstoxy","motion_pointindirection","motion_pointtowards","motion_changexby","motion_setx","motion_changeyby","motion_sety","motion_ifonedgebounce","motion_setrotationstyle","FD]_=%:s%ae#pww:(WO%_xposition","FD]_=%:s%ae#pww:(WO%_yposition","FD]_=%:s%ae#pww:(WO%_direction"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"motion_turnleft","time":1650232788974}
+blockly_compressed_vertical.js:2037 ## {"id":"motion_turnright","time":1650232791120}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["loudness","operator_lt","operator_letter_of","operator_length"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["loudness"],"suggestion":["motion_goto","motion_gotoxy","motion_setx","motion_sety","looks_setsizeto","looks_seteffectto","looks_gotofrontback","sound_seteffectto","sound_setvolumeto"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["looks_sayforsecs","looks_thinkforsecs","motion_goto","motion_gotoxy","motion_setx","motion_sety","motion_setrotationstyle","looks_setsizeto","looks_seteffectto","looks_gotofrontback","sound_seteffectto","sound_setvolumeto","forever","control_create_clone_of","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_setdragmode"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["sound_stopallsounds","control_stop"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#loop"],"results":{"tag":["control_repeat","forever","repeat_until"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"repeat_until","time":1650232818078}
+blockly_compressed_vertical.js:2037 ## {"id":"repeat_until","time":1650232819958}
+blockly_compressed_vertical.js:2037 ## {"id":"repeat_until","time":1650232821754}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_not","looks_nextcostume","looks_nextbackdrop","looks_nextbackdrop"],"suggestion":["motion_pointindirection","looks_thinkforsecs","operator_contains"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_not"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"operator_not","time":1650232828374}
+blockly_compressed_vertical.js:2037 ## {"id":"operator_not","time":1650232830419}
+blockly_compressed_vertical.js:2037 ## {"id":"operator_not","time":1650232832482}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["backdropnumbername","event_broadcast","event_broadcastandwait"],"suggestion":["motion_changexby","motion_gotoxy","motion_glidesecstoxy","motion_changeyby","looks_changesizeby","looks_changeeffectby","sound_changeeffectby","sound_changevolumeby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["looks_sayforsecs","looks_thinkforsecs","motion_goto","motion_gotoxy","looks_gotofrontback","forever","control_create_clone_of","sensing_touchingcolor","sensing_coloristouchingcolor"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"sensing_keypressed","time":1650232839618}
+blockly_compressed_vertical.js:2037 ## {"id":"sensing_keypressed","time":1650232841145}
+blockly_compressed_vertical.js:2037 ## {"id":"sensing_touchingobject","time":1650232848596}
+blockly_compressed_vertical.js:861 Trying to cancel a gesture recursively.
+blockly_compressed_vertical.js:2037 ## {"id":"sensing_keypressed","time":1650232854883}
+search-algorithms.js:312 ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#boolean"],"results":{"tag":["sensing_touchingobject","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_keypressed","sensing_mousedown","operator_lt","operator_equals","operator_and","operator_or","operator_not"]}}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_show","E2Yr]9_}V4R_[Q9ccj)d_size","control_stop","motion_setx","motion_sety","operator_subtract","looks_setsizeto","E2Yr]9_}V4R_[Q9ccj)d_sound_play","looks_seteffectto","sound_seteffectto","sound_setvolumeto","sensing_setdragmode","looks_sayforsecs","sound_stopallsounds","E2Yr]9_}V4R_[Q9ccj)d_switchcostumeto","motion_setrotationstyle","looks_switchbackdropto","looks_switchbackdropto","looks_switchbackdroptoandwait"],"suggestion":["control_start_as_clone","motion_gotoxy","motion_glidesecstoxy","motion_changexby","event_whenthisspriteclicked","event_broadcast","event_broadcastandwait","sensing_coloristouchingcolor","sensing_distanceto","askandwait"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_stop","E2Yr]9_}V4R_[Q9ccj)d_sound_play","sound_stopallsounds"],"suggestion":["motion_setx","motion_sety","motion_setrotationstyle","looks_setsizeto","looks_seteffectto","sound_seteffectto","sound_setvolumeto","control_if","control_if_else","sensing_setdragmode","sensing_resettimer"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["E2Yr]9_}V4R_[Q9ccj)d_sound_play"],"suggestion":["motion_setx","motion_sety","looks_setsizeto","looks_seteffectto","sound_stopallsounds","sound_seteffectto","sound_setvolumeto","control_stop"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["E2Yr]9_}V4R_[Q9ccj)d_sound_play"],"suggestion":["control_start_as_clone","looks_sayforsecs","looks_say","sound_stopallsounds","event_whenstageclicked","control_stop","of"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["E2Yr]9_}V4R_[Q9ccj)d_sound_play"],"suggestion":["control_start_as_clone","event_whenstageclicked","of"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#start"],"results":{"tag":["event_whenflagclicked","event_whenkeypressed","event_whenstageclicked","event_whenthisspriteclicked","event_whenbackdropswitchesto","event_whengreaterthan","event_whenbroadcastreceived","event_broadcastandwait","control_start_as_clone"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"event_whenflagclicked","time":1650233189300}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_goto","looks_goforwardbackwardlayers","motion_gotoxy","looks_gotofrontback","operator_gt","motion_glideto","motion_glidesecstoxy"],"suggestion":["motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_glideto","motion_glidesecstoxy"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback","looks_goforwardbackwardlayers","E2Yr]9_}V4R_[Q9ccj)d_sound_play","control_start_as_clone"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_glideto","motion_glidesecstoxy"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback","looks_goforwardbackwardlayers","sound_stopallsounds"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_glideto","motion_glidesecstoxy"],"suggestion":[]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_glideto","motion_glidesecstoxy"],"suggestion":["looks_hide"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"motion_glideto","time":1650233195402}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_round","control_repeat","sensing_resettimer","repeat_until"],"suggestion":["looks_sayforsecs","looks_thinkforsecs","forever"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_pointindirection","looks_sayforsecs","looks_thinkforsecs","E2Yr]9_}V4R_[Q9ccj)d_sound_playuntildone","event_broadcastandwait","control_start_as_clone","askandwait","operator_contains"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["operator_random","looks_switchbackdroptoandwait","event_broadcastandwait","askandwait","operator_and"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"operator_random","time":1650233200642}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","operator_multiply","motion_movesteps","sensing_mousedown","operator_mathop"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","motion_movesteps","sensing_mousedown"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["sensing_setdragmode","motion_setx","motion_sety","motion_setrotationstyle","looks_sayforsecs","looks_thinkforsecs","looks_setsizeto","looks_seteffectto","sound_seteffectto","sound_setvolumeto"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["sensing_setdragmode","motion_movesteps","operator_not","operator_mod","operator_mathop"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#motion"],"results":{"tag":["motion_movesteps","motion_turnright","motion_turnleft","motion_goto","motion_gotoxy","motion_glideto","motion_glidesecstoxy","motion_pointindirection","motion_pointtowards","motion_changexby","motion_setx","motion_changeyby","motion_sety","motion_ifonedgebounce","motion_setrotationstyle","E2Yr]9_}V4R_[Q9ccj)d_xposition","E2Yr]9_}V4R_[Q9ccj)d_yposition","E2Yr]9_}V4R_[Q9ccj)d_direction"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"motion_pointtowards","time":1650233224957}
+blockly_compressed_vertical.js:861 Trying to cancel a gesture recursively.
+blockly_compressed_vertical.js:861 Trying to cancel a gesture recursively.
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","operator_multiply","motion_movesteps","sensing_mousedown","operator_mathop"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","motion_movesteps","sensing_mousedown"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_movesteps"],"suggestion":["motion_goto","motion_gotoxy","looks_sayforsecs","looks_thinkforsecs","looks_gotofrontback","sensing_setdragmode"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_movesteps"],"suggestion":["sensing_setdragmode","motion_goto","motion_gotoxy","looks_gotofrontback","looks_goforwardbackwardlayers"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_movesteps"],"suggestion":["motion_goto","motion_gotoxy","looks_sayforsecs","looks_thinkforsecs","looks_gotofrontback","sensing_setdragmode"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","motion_movesteps","sensing_mousedown"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","operator_multiply","motion_movesteps","sensing_mousedown","operator_mathop"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["forever"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby","motion_ifonedgebounce","control_if","control_if_else","control_create_clone_of","of","operator_letter_of","operator_length"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["forever"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["forever"],"suggestion":["looks_sayforsecs","looks_thinkforsecs"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["forever"],"suggestion":["looks_sayforsecs","looks_thinkforsecs"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["forever"],"suggestion":["looks_sayforsecs","looks_thinkforsecs"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"forever","time":1650233236965}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","operator_multiply","motion_movesteps","sensing_mousedown","operator_mathop"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_mod","sensing_mousex","sensing_mousey","motion_movesteps","sensing_mousedown"],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_movesteps"],"suggestion":["motion_goto","motion_gotoxy","looks_sayforsecs","looks_thinkforsecs","looks_gotofrontback","sensing_setdragmode"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["motion_movesteps"],"suggestion":["sensing_setdragmode","motion_goto","motion_gotoxy","looks_gotofrontback","looks_goforwardbackwardlayers"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"motion_movesteps","time":1650233243200}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["operator_round","control_repeat","sensing_resettimer","repeat_until"],"suggestion":["looks_sayforsecs","looks_thinkforsecs","forever"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_pointindirection","looks_sayforsecs","looks_thinkforsecs","E2Yr]9_}V4R_[Q9ccj)d_sound_playuntildone","event_broadcastandwait","control_start_as_clone","askandwait","operator_contains"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["operator_random","looks_switchbackdroptoandwait","event_broadcastandwait","askandwait","operator_and"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["operator_random","looks_switchbackdroptoandwait","event_broadcastandwait","askandwait","operator_and"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["operator_random"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"operator_random","time":1650233251633}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["loudness","operator_lt","operator_letter_of","operator_length"],"suggestion":["motion_gotoxy","motion_glidesecstoxy","motion_changexby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["loudness"],"suggestion":["motion_goto","motion_gotoxy","motion_setx","motion_sety","looks_setsizeto","looks_seteffectto","looks_gotofrontback","sound_seteffectto","sound_setvolumeto"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["looks_sayforsecs","looks_thinkforsecs","motion_goto","motion_gotoxy","motion_setx","motion_sety","motion_setrotationstyle","looks_setsizeto","looks_seteffectto","looks_gotofrontback","sound_seteffectto","sound_setvolumeto","forever","control_create_clone_of","sensing_touchingcolor","sensing_coloristouchingcolor","sensing_setdragmode"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#looks"],"results":{"tag":["looks_sayforsecs","looks_say","looks_thinkforsecs","looks_think","looks_switchbackdropto","looks_switchbackdroptoandwait","looks_nextbackdrop","E2Yr]9_}V4R_[Q9ccj)d_switchcostumeto","looks_nextcostume","looks_changesizeby","looks_setsizeto","looks_changeeffectby","looks_seteffectto","looks_cleargraphiceffects","looks_show","looks_hide","looks_gotofrontback","looks_goforwardbackwardlayers","backdropnumbername","E2Yr]9_}V4R_[Q9ccj)d_costumenumbername","E2Yr]9_}V4R_[Q9ccj)d_size"]}}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["backdropnumbername","event_broadcast","event_broadcastandwait"],"suggestion":["motion_changexby","motion_gotoxy","motion_glidesecstoxy","motion_changeyby","looks_changesizeby","looks_changeeffectby","sound_changeeffectby","sound_changevolumeby"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_goto","motion_gotoxy","looks_gotofrontback"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["looks_sayforsecs","looks_thinkforsecs","motion_goto","motion_gotoxy","looks_gotofrontback","forever","control_create_clone_of","sensing_touchingcolor","sensing_coloristouchingcolor"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_ifonedgebounce","E2Yr]9_}V4R_[Q9ccj)d_sound_playuntildone","motion_turnright","motion_turnleft","motion_pointindirection","motion_setrotationstyle","E2Yr]9_}V4R_[Q9ccj)d_xposition","E2Yr]9_}V4R_[Q9ccj)d_yposition","E2Yr]9_}V4R_[Q9ccj)d_direction","looks_sayforsecs","looks_thinkforsecs","E2Yr]9_}V4R_[Q9ccj)d_sound_play","sound_stopallsounds","sound_cleareffects","control_wait","control_start_as_clone","control_create_clone_of","control_delete_this_clone","sensing_mousedown","operator_join","operator_contains","operator_round","operator_mathop"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_ifonedgebounce","E2Yr]9_}V4R_[Q9ccj)d_sound_playuntildone","E2Yr]9_}V4R_[Q9ccj)d_sound_play","sound_stopallsounds","sound_cleareffects","operator_round"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_ifonedgebounce"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"motion_ifonedgebounce","time":1650233300877}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":[],"suggestion":["motion_ifonedgebounce"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["looks_say","looks_show","FD]_=%:s%ae#pww:(WO%_size","control_stop","motion_setx","motion_sety","operator_subtract","looks_setsizeto","FD]_=%:s%ae#pww:(WO%_sound_play","looks_seteffectto","sound_seteffectto","sound_setvolumeto","sensing_setdragmode","looks_sayforsecs","sound_stopallsounds","FD]_=%:s%ae#pww:(WO%_switchcostumeto","motion_setrotationstyle","looks_switchbackdropto","looks_switchbackdropto","looks_switchbackdroptoandwait"],"suggestion":["control_start_as_clone","motion_gotoxy","motion_glidesecstoxy","motion_changexby","event_whenthisspriteclicked","event_broadcast","event_broadcastandwait","sensing_coloristouchingcolor","sensing_distanceto","askandwait"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_stop","FD]_=%:s%ae#pww:(WO%_sound_play","sound_stopallsounds"],"suggestion":["motion_setx","motion_sety","motion_setrotationstyle","looks_setsizeto","looks_seteffectto","sound_seteffectto","sound_setvolumeto","control_if","control_if_else","sensing_setdragmode","sensing_resettimer"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_sound_play"],"suggestion":["motion_setx","motion_sety","looks_setsizeto","looks_seteffectto","sound_stopallsounds","sound_seteffectto","sound_setvolumeto","control_stop"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_sound_play"],"suggestion":["control_start_as_clone","looks_sayforsecs","looks_say","sound_stopallsounds","event_whenstageclicked","control_stop","of"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_sound_play"],"suggestion":["control_start_as_clone","event_whenstageclicked","of"]}}
+search-algorithms.js:312 ## SEARCH {"tags":["#start"],"results":{"tag":["event_whenflagclicked","event_whenkeypressed","event_whenstageclicked","event_whenthisspriteclicked","event_whenbackdropswitchesto","event_whengreaterthan","event_whenbroadcastreceived","event_broadcastandwait","control_start_as_clone"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"event_whenkeypressed","time":1650233311570}
+search-algorithms.js:293 ## CLEARED SEARCH
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["FD]_=%:s%ae#pww:(WO%_costumenumbername","current","operator_contains","motion_changexby","motion_changeyby","looks_changesizeby","control_create_clone_of","looks_changeeffectby","sound_changeeffectby","sound_changevolumeby","sound_cleareffects","looks_cleargraphiceffects","sensing_coloristouchingcolor"],"suggestion":["motion_gotoxy","motion_glidesecstoxy"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["looks_sayforsecs","looks_thinkforsecs","forever","sensing_touchingcolor","sensing_coloristouchingcolor","operator_or"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["looks_sayforsecs","looks_thinkforsecs","looks_changeeffectby","looks_seteffectto","looks_cleargraphiceffects","sound_changeeffectby","sound_seteffectto","sound_cleareffects","forever","sensing_touchingcolor","sensing_coloristouchingcolor","operator_or"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["looks_cleargraphiceffects","sound_cleareffects"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["looks_cleargraphiceffects","sound_cleareffects"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["event_whengreaterthan","operator_gt"]}}
+blockly_compressed_vertical.js:2037 ## {"id":"control_create_clone_of","time":1650233331544}
+blockly_compressed_vertical.js:861 Trying to cancel a gesture recursively.
+blockly_compressed_vertical.js:861 Trying to cancel a gesture recursively.
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["event_whengreaterthan","operator_gt"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["event_whengreaterthan","operator_gt"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["event_whengreaterthan","operator_gt"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["event_whengreaterthan","operator_gt"]}}
+search-algorithms.js:338 ## SEARCH {"tags":[],"results":{"autocomplete":["control_create_clone_of"],"suggestion":["event_whengreaterthan","operator_gt"]}}
